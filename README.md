@@ -4,7 +4,7 @@ Building MCP servers and Claude skills for PPC and post-click marketing.
 
 ## Projects
 
-**[UXON AI](https://github.com/alexpilotto/uxon-ai)** — MCP server and Claude skills for building PPC landing pages, running A/B experiments for Google Ads and Meta campaigns, and tracking first-party conversions. Agents use UXON to manage the full post-click workflow without logging into a dashboard.
+**[UXON AI](https://github.com/alexpilotto/uxon-ai)** — MCP server and Claude skills for the full post-click workflow. Build PPC landing pages, run A/B experiments for Google Ads and Meta, track first-party conversions, and manage client approvals, all through an agent without touching the dashboard.
 
 **[SplitLaunch](https://github.com/alexpilotto/splitlaunch-dev)** — Package-first A/B testing for customer-owned pages. Install one package, connect your API key, and let your AI agent create URL experiments, track conversions, and explain results across Google Ads and Meta traffic.
 
